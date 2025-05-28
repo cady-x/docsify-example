@@ -1,7 +1,3 @@
-# <a id="home-page"></a> Home Page
+# <a id="home-page"></a> What is BobaFinder?
 
-> This is the home page.
-
-You can write all the markdown that you want here. You should update this page, the other
-pages, and the left navigation (sidebar.md). The index.html file doesn't contain any of
-the content for the site. These pages use Docsify: https://docsify.js.org/#/?id=docsify
+> BobaFinder is an app that allows you to find and rate boba tea locations in your area.
