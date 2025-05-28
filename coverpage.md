@@ -2,7 +2,7 @@
 
 # ENGL 396 <small>Beta</small>
 
-> Software Document Rocks
+> Software Documentation Rocks
 
 - Clear and concise
 - Well organized
