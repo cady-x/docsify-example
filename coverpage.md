@@ -1,12 +1,11 @@
 <!-- _coverpage.md -->
 
-# ENGL 396 <small>Beta</small>
+# BobaFinder <small>Beta</small>
 
-> Software Documentation Rocks
+> I ❤️ Boba
 
-- Clear and concise
-- Well organized
-- Useful titles and opening text
+- Innovative
+- Exciting
+- Tasty
 
-[Canvas](https://canvas.uw.edu/courses/1805373)
 [Get Started](#home-page)
