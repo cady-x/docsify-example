@@ -6,11 +6,10 @@
 
 * First Group
 
-  * [Doc One](docone.md)
-  * [Doc Two](doctwo.md)
-  * [Doc Three](docthree.md)
+  * [Downloading, installing, and logging in to BobaFinder for new users](setup.md)
+  * [Prerequisites to using BobaFinder](prereqs.md)
+  * [Finding boba locations near you with the search feature](ratingreviewing.md)
   
 * Second Group 
 
-  * [Doc Four](docfour.md)
-  * [Doc Five](docfive.md)
+  * [Doc Four](reference.md)
